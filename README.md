@@ -10,6 +10,14 @@ Then:
 npm install -g @angular/cli
 ~~~
 
+Also - install packages.json with the following in root folder:
+
+~~~
+npm install
+~~~
+
+
+# Generated
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
